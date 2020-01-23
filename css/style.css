@@ -1,0 +1,68 @@
+html {
+    font-family: "Lucia Grande", sans-serif;
+    background-color: #000000;
+    color:#ffffff;
+}
+
+h1 {
+    text-align: center;
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 30px;
+    text-shadow: 5px 5px #808080;
+}
+
+p {
+    font-size: 24px;
+    padding-top: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 525px;
+}
+
+div {
+    min-height: 150px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+
+}
+
+#red {
+    background-color: #ff0000;
+    text-align: right;
+}
+
+#blue {
+    background-color: #0000ff;
+    text-align: left;
+}
+
+#yellow {
+    color: #000000;
+    background-color:  #ffff00;
+    text-align: right;
+}
+
+#yellow h2 {
+    text-shadow: 5px 5px #c7e2c7;
+    filter: blur(2px);
+}
+
+#green {
+    background-color: #007600;
+    text-align: left;
+}
+
+footer {
+    text-align: right;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
